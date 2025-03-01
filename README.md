@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vitorhugolg
 - 👀 I’m interested in science, reading & many other stuff.
-- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: I'm a high schooler at UFMG, an important brazilian university.
 
 <!---
